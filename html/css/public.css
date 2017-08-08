@@ -1,0 +1,93 @@
+body{font:14px/24px "微软雅黑", Arial;color:#666;margin:0 auto;padding:0; background:#191a2c; }
+.clear {font-size:0px;height:0;line-height:0px;clear:both;margin:0; padding:0;}
+*{padding:0px;margin:0px;} 
+a,p,ul,li,dl,dt,dd,h1,h2,h3,h4,h5,img,form,span{ margin:0; padding:0;}
+img{ border:0;}
+li{list-style-type: none;}
+a{text-decoration: none;}
+a:hover{ color:#4a78d0;}
+
+.dn{display: none;}
+.auto{margin:0 auto;}
+.leftFloat{ float:left;}
+.rightFloat{ float:right;}
+#main{width:1200px;}
+.baise{ color:#fff;}
+.zi30{ font-size:30px; color:#000;}
+
+.MT4left{width:90px; overflow:hidden;}
+.Member{height:77px; background:#0b0a1a;padding-top:23px;}
+.MemberPic{width:54px;height:54px;-moz-border-radius:50%;-webkit-border-radius:50%;border-radius:50%; background:url(../images/pic01.jpg) no-repeat left top;}
+
+.menu{background:#25273e;padding-bottom:200px;}
+.menu li{height:100px; text-align:center;padding-top:20px; border-left:2px solid #25273e;}
+.menu li:hover{background:#31354e; cursor:pointer; border-left:2px solid #4a78d0;}
+.menu li.menuHover{background:#31354e;cursor:pointer; border-left:2px solid #4a78d0;}
+.menu li span{width:34px;height:34px;}
+.menu li p{line-height:18px;margin-top:5px;}
+.menu li a{ color:#fff;}
+
+
+
+.MT4right{width:1084px;overflow:hidden;}
+.top{height:100px; color:#bbbbbe;overflow:hidden;}
+.topLeft{width:400px;margin-top:27px; }
+.topLeft h1{width:164px;height:46px;border-right:1px solid #474856;padding-right:24px;margin-right:20px;}
+.topLeft p{font-size:20px;margin-top:10px;}
+.topRight{margin-top:40px;}
+.topRight a{ color:#bbbbbe; }
+.topRight a:hover{ color:#4a78d0;}
+
+.content{ background:#31354e; overflow:hidden;padding:20px;position:relative;}
+.col01{height:36px; overflow:hidden;}
+.search{width:180px;height:36px; line-height:36px;background:#404562;-moz-border-radius:30px;-webkit-border-radius:30px;border-radius:30px;padding:0 20px; }
+.searchbg{width:140px;height:36px; line-height:36px; color:#c2c3ca;background:#404562;border:0;outline: none; }
+.search span{width:17px;height:17px;border-left:1px solid #697687;padding-left:10px;margin-top:10px;}
+.plus{width:88px;height:36px; line-height:36px;}
+.plus img{width:21px;height:21px;margin-top:8px;}
+.plus span{color:#c2c3ca;margin-left:10px;}
+
+
+.col02{margin-top:20px;}
+.col02 td{height:40px; line-height:40px;}
+.edit{margin-top:10px;}
+.select01{width:80px;height:26px; line-height:26px;padding:0 10px; background:url(../images/selectbg.gif) no-repeat left top; border:0;outline: none;  color:#fff;}
+.select01 option{background:#31354e url(../images/xt.gif) no-repeat bottom center; border:1px solid #4f5476;height:30px; line-height:30px;}
+
+.col03{height:30px;padding:15px 0;background:#fff;margin-top:20px;}
+.Flip{width:600px;}
+.Flip td{height:25px; line-height:25px;}
+.flipbg a{width:25px;height:25px; line-height:25px;color:#666; display:block;}
+.flipbg a:hover{background:#898dac; color:#fff;}
+.button01{width:65px;height:25px; line-height:25px; text-align:center; background:#898dac; color:#fff; border:0;}
+.input02{width:25px;height:25px; line-height:25px;border:1px solid #ddd;outline: none; }
+
+.model{width:100%;height:100%;background-color: #aaa;
+    opacity: 0.7;
+    -webkit-opacity: 0.7;
+    z-index: 5;
+    position: absolute;
+    top: 0;
+    left: 0;}
+.Popup01{width:640px;height:750px; overflow:hidden; background:#fff;-moz-border-radius:8px;-webkit-border-radius:8px;border-radius:8px;position:absolute;left:35%; top:10%; z-index:66;}
+.Close{width:18px;height:18px;margin:20px 0 0 600px;}
+.PopupCol{ color:#666;}
+.PopupCol td{padding:5px 5px 5px 0;height:52px; line-height:52px;}
+
+.drop{width:242px;height:46px; line-height:46px; background:url(../images/listbg01.gif) no-repeat left top; border:0;padding:0 15px; position:relative;text-shadow:1px 1px 1px #fff;}
+.drop p{width:230px;}
+.drop span{width:11px;height:13px;margin-top:15px;}
+.dropCol{width:271px; position:absolute;top:46px;left:0; z-index:88;}
+.dropCol ul{padding:0 2px;background:url(../images/listbgcol.gif) repeat-y left top;}
+.dropCol li{padding:0 20px;height:34px; line-height:34px;border-top:1px solid #fff; border-bottom:1px solid #afafaf;}
+.dropCol .xt01{ border-top:none;}
+.dropCol .xt02{ border-bottom:none;}
+
+.input03{width:242px;height:46px; line-height:46px;border:0;outline: none; color:#666;text-shadow:1px 1px 1px #fff;padding:0 15px; background:url(../images/inputbg.gif) no-repeat left top;}
+.button02{width:267px;height:40px;line-height:40px;text-align:center; border:0; background:url(../images/onbg.gif) no-repeat left top; color:#fff; font-size:18px;}
+
+.checkbox01{width:20px;height:20px; border:1px solid #ccc;outline: none; cursor:pointer;}
+
+
+
+
